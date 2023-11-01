@@ -1,2 +1,3 @@
-# smallest-sample-app
-The smallest 3dverse sample app possible
+# Simple Cube
+
+A simple cube application.
