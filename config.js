@@ -1,4 +1,4 @@
 //------------------------------------------------------------------------------
-export const publicToken = "%PUBLIC_TOKEN%";
+export const publicToken = '%YOUR_PUBLIC_TOKEN%';
 //------------------------------------------------------------------------------
-export const sceneUUID = "e7815948-f716-45b6-8106-e5a1a725e7bf";
+export const sceneUUID = '%YOUR_MAIN_SCENE_UUID%';
